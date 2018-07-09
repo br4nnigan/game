@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sourceRoot":"","sources":["../../src/constants/config.ts","../../src/Main.ts","../../src/app.ts"],"names":[],"mappings":";;;;;;iCAAe;gBACd,GAAG,EAAE,OAAO;aACZ;QACD,CAAC;;;;;;;;;;YCHD;gBAEC,cAAa,MAAe;oBAC3B,IAAI,CAAA;gBACL,CAAC;gBACF,WAAC;YAAD,CAAC,AALD,IAKC;;QAAA,CAAC;;;;;;;;;;;;;;;;;YCFI,GAAG,GAAG,IAAI,cAAI,CAAE,gBAAM,CAAE,CAAA;QAE9B,CAAC"}

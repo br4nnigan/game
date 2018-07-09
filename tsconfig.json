@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "module":"system",
+        "target": "es5",
+        "sourceMap": true,
+        "outFile": "dist/js/app.js"
+    },
+    "files": [
+       "src/app.ts"
+    ]
+}

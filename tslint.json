@@ -1,0 +1,26 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {
+
+    },
+    "rules": {
+		"semicolon": [true, "never"],
+		"indent": [true, "tabs", 4],
+		"trailing-comma": [true, {"esSpecCompliant": true}],
+		"eofline": false,
+		"typedef-whitespace": [
+			true,
+			{
+				"call-signature": "onespace",
+				"index-signature": "onespace",
+				"parameter": "onespace",
+				"property-declaration": "onespace",
+				"variable-declaration": "onespace"
+			}
+		]
+    },
+    "rulesDirectory": []
+}
